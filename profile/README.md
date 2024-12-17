@@ -22,6 +22,13 @@ Key features, of this project for users:
 1. Users can search for lost items using location filters to narrow down the search.
 2. Users can communicate through comments for easy communication between the owner of the item and the inventor.
 3. Users can also apply for ownership to make it easier for the inventor of the item to believe that it is the item.
+4. Authentication Feature for ensure account security with a strong authentication system.
+5. Item Report Feature  to report lost items easily.
+6. Account Management Feature for manage your profile and account information effortlessly.
+7. Donation Feature to help others with a trusted donation feature.
+8. Report Management Feature to monitor lost item reports through a dedicated dashboard.
+9. Category Management Feature to manage item categories for more targeted searches.
+10. Notification Feature for receive real-time notifications about reports.
  
 
 ## 👨‍💼 Main User
