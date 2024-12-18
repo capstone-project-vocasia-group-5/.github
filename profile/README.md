@@ -4,9 +4,6 @@
 
 # Item Tracker
 
-![Stars](https://img.shields.io/github/stars/capstone-project-vocasia-group-5/frontend-item-tracker.svg)
-![Forks](https://img.shields.io/github/forks/capstone-project-vocasia-group-5/frontend-item-tracker.svg)
-![Watchers](https://img.shields.io/github/watchers/capstone-project-vocasia-group-5/frontend-item-tracker.svg)
 ![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)
 [![platform](https://img.shields.io/badge/platform-MERN-blue.svg)](https://mern.io/)
 
